@@ -1,9 +1,10 @@
 # 💖 Projeto AuthExample
+
+📌 Este aplicativo tem caráter **educacional** e foi desenvolvido com foco no **aprendizado prático**.
+
 Este projeto é um app Android simples criado com o objetivo de estudar o uso do Firebase Authentication em conjunto com o Jetpack Compose. Ele permite realizar login e criação de contas usando e-mail e senha, utilizando credenciais fixas diretamente no código. Ao executar essas ações, o app exibe mensagens de sucesso ou erro diretamente no console (log), o que ajuda no entendimento do fluxo de autenticação.
 
 Além disso, toda a interface do aplicativo foi construída com Jetpack Compose, a abordagem mais moderna para desenvolvimento de UI no Android, proporcionando um código mais limpo, declarativo e fácil de manter.
-
-📌 **É a primeira vez que estou mexendo com autenticação no Firebase**, então este app tem como foco principal o **aprendizado prático**.
 
 ---
 
