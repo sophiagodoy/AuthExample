@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708197905337",
+    "project_id": "aula-a57f3",
+    "storage_bucket": "aula-a57f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708197905337:android:aaa8b18017e7ccb6ff3c68",
+        "android_client_info": {
+          "package_name": "br.com.ibm.authexemplo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDSDIOteSgo0dXZIT87prFqvKwQiuSlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
