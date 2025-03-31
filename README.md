@@ -16,7 +16,7 @@ Além disso, toda a interface do aplicativo foi construída com Jetpack Compose,
    - No terminal, navegue até o diretório onde deseja armazenar o projeto e execute o seguinte comando:
 
      ```gradle
-     git@github.com:sophiagodoy/Calculo-IMC.git
+     git@github.com:sophiagodoy/AuthExample.git
      ```
 
 ## 2️⃣ Passo 2: Criar um Projeto no Firebase
